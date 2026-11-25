@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://portfolio-website-omega-nine-21.vercel.app/sitemap.xml
